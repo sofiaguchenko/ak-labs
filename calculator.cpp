@@ -16,7 +16,7 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
-// Додаю власні рядки
+// Adding new lines
 int Calculator::Dil (double a, double)
 {
     return a / b
